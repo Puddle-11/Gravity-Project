@@ -1,9 +1,4 @@
 # Gravity-Project
- ____  _     ____  ____  _     _____
-/  __\/ \ /\/  _ \/  _ \/ \   /  __/
-|  \/|| | ||| | \|| | \|| |   |  \  
-|  __/| \_/|| |_/|| |_/|| |_/\|  /_ 
-\_/   \____/\____/\____/\____/\____\
 
 
 if you want to use the script without importing the entire package, apply the script to a gameobject with the following components
